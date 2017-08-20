@@ -1604,6 +1604,11 @@
       "MyLibrary/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.0",
+        "dependencies": {
+          "MSTest.TestAdapter": "1.1.18",
+          "MSTest.TestFramework": "1.1.18",
+          "Microsoft.NET.Test.Sdk": "15.3.0-preview-20170628-02"
+        },
         "compile": {
           "bin/placeholder/MyLibrary.dll": {}
         },

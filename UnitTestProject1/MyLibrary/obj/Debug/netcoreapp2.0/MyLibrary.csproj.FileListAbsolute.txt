@@ -16,3 +16,8 @@ C:\temp\code\core\UnitTestProject1\MyLibrary\obj\Debug\netcoreapp2.0\MyLibrary.A
 C:\temp\code\core\UnitTestProject1\MyLibrary\obj\Debug\netcoreapp2.0\MyLibrary.AssemblyInfo.cs
 C:\temp\code\core\UnitTestProject1\MyLibrary\obj\Debug\netcoreapp2.0\MyLibrary.dll
 C:\temp\code\core\UnitTestProject1\MyLibrary\obj\Debug\netcoreapp2.0\MyLibrary.pdb
+C:\temp\code\core\UnitTestProject1\MyLibrary\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\temp\code\core\UnitTestProject1\MyLibrary\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\temp\code\core\UnitTestProject1\MyLibrary\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\temp\code\core\UnitTestProject1\MyLibrary\bin\Debug\netcoreapp2.0\MyLibrary.runtimeconfig.json
+C:\temp\code\core\UnitTestProject1\MyLibrary\bin\Debug\netcoreapp2.0\MyLibrary.runtimeconfig.dev.json
